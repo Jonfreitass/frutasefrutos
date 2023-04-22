@@ -1,0 +1,39 @@
+#receita-estilo {
+    max-width: 18rem;
+}
+
+.imagem-carousel-um {
+    object-fit: cover;
+    object-position: 0 75%;
+    height: 500px;
+
+}
+
+.imagem-carousel-dois {
+    object-fit: cover;
+    height: 500px;
+
+}
+
+.font-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred !important; 
+}
+
+.btn-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-imagem-posicao {
+    object-fit: cover;
+    /* object-position: 0 75%; */
+    height: 200px;
+}
